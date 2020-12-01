@@ -1,0 +1,3583 @@
+{
+  "osm": {
+    "-version": "0.6",
+    "-generator": "CGImap 0.8.3 (148237 spike-06.openstreetmap.org)",
+    "-copyright": "OpenStreetMap and contributors",
+    "-attribution": "http://www.openstreetmap.org/copyright",
+    "-license": "http://opendatacommons.org/licenses/odbl/1-0/",
+    "bounds": {
+      "-minlat": "57.6628700",
+      "-minlon": "12.1956700",
+      "-maxlat": "57.6667000",
+      "-maxlon": "12.2061100"
+    },
+    "node": [
+      {
+        "-id": "21372316",
+        "-visible": "true",
+        "-version": "4",
+        "-changeset": "12205175",
+        "-timestamp": "2012-07-13T10:50:08Z",
+        "-user": "joakimfors",
+        "-uid": "306096",
+        "-lat": "57.6582865",
+        "-lon": "12.1242259"
+      },
+      {
+        "-id": "21377243",
+        "-visible": "true",
+        "-version": "4",
+        "-changeset": "85684087",
+        "-timestamp": "2020-05-24T14:17:24Z",
+        "-user": "riiga",
+        "-uid": "83501",
+        "-lat": "57.6614232",
+        "-lon": "12.5359810"
+      },
+      {
+        "-id": "251152876",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:18:12Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6670689",
+        "-lon": "12.2032839"
+      },
+      {
+        "-id": "251152984",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6656596",
+        "-lon": "12.1985547"
+      },
+      {
+        "-id": "251152985",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6657101",
+        "-lon": "12.1985976"
+      },
+      {
+        "-id": "251152986",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6657285",
+        "-lon": "12.1987263"
+      },
+      {
+        "-id": "251152987",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6657468",
+        "-lon": "12.1988121"
+      },
+      {
+        "-id": "251152988",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6657560",
+        "-lon": "12.1989666"
+      },
+      {
+        "-id": "251152989",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6657790",
+        "-lon": "12.1990954"
+      },
+      {
+        "-id": "251152990",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6657790",
+        "-lon": "12.1991726"
+      },
+      {
+        "-id": "251152991",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6657790",
+        "-lon": "12.1992585"
+      },
+      {
+        "-id": "251152992",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6657744",
+        "-lon": "12.1993700"
+      },
+      {
+        "-id": "251152993",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6657514",
+        "-lon": "12.1994301"
+      },
+      {
+        "-id": "251152994",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6657331",
+        "-lon": "12.1994816"
+      },
+      {
+        "-id": "251152995",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6656826",
+        "-lon": "12.1995331"
+      },
+      {
+        "-id": "251152996",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6656642",
+        "-lon": "12.1996190"
+      },
+      {
+        "-id": "251152997",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6656550",
+        "-lon": "12.1997220"
+      },
+      {
+        "-id": "251152998",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6656458",
+        "-lon": "12.1998078"
+      },
+      {
+        "-id": "251152999",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6656229",
+        "-lon": "12.1998764"
+      },
+      {
+        "-id": "251153000",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6655770",
+        "-lon": "12.1999709"
+      },
+      {
+        "-id": "251153001",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6655494",
+        "-lon": "12.2000138"
+      },
+      {
+        "-id": "251153002",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6655357",
+        "-lon": "12.2000824"
+      },
+      {
+        "-id": "251153003",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6654714",
+        "-lon": "12.2001854"
+      },
+      {
+        "-id": "251153004",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6654163",
+        "-lon": "12.2001511"
+      },
+      {
+        "-id": "251153005",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6653612",
+        "-lon": "12.2001511"
+      },
+      {
+        "-id": "251153006",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6652694",
+        "-lon": "12.2001854"
+      },
+      {
+        "-id": "251153007",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6652281",
+        "-lon": "12.2002284"
+      },
+      {
+        "-id": "251153008",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6651592",
+        "-lon": "12.2003056"
+      },
+      {
+        "-id": "251153009",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6651087",
+        "-lon": "12.2002541"
+      },
+      {
+        "-id": "251153010",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6650169",
+        "-lon": "12.2001854"
+      },
+      {
+        "-id": "251153011",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6649985",
+        "-lon": "12.2001254"
+      },
+      {
+        "-id": "251153012",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6649297",
+        "-lon": "12.1999623"
+      },
+      {
+        "-id": "251153013",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6648930",
+        "-lon": "12.1999108"
+      },
+      {
+        "-id": "251153014",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6648425",
+        "-lon": "12.1998421"
+      },
+      {
+        "-id": "251153015",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6647874",
+        "-lon": "12.1997906"
+      },
+      {
+        "-id": "251153016",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6647369",
+        "-lon": "12.1997048"
+      },
+      {
+        "-id": "251153017",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6647093",
+        "-lon": "12.1996275"
+      },
+      {
+        "-id": "251153018",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6646313",
+        "-lon": "12.1994816"
+      },
+      {
+        "-id": "251153019",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6645578",
+        "-lon": "12.1993958"
+      },
+      {
+        "-id": "251153020",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6645165",
+        "-lon": "12.1992413"
+      },
+      {
+        "-id": "251153021",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6645211",
+        "-lon": "12.1991469"
+      },
+      {
+        "-id": "251153022",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6645532",
+        "-lon": "12.1990267"
+      },
+      {
+        "-id": "251153023",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6645808",
+        "-lon": "12.1989323"
+      },
+      {
+        "-id": "251153024",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6646129",
+        "-lon": "12.1987950"
+      },
+      {
+        "-id": "251153025",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6646588",
+        "-lon": "12.1986577"
+      },
+      {
+        "-id": "251153026",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6646956",
+        "-lon": "12.1985804"
+      },
+      {
+        "-id": "251153027",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6647277",
+        "-lon": "12.1985203"
+      },
+      {
+        "-id": "251153028",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6647828",
+        "-lon": "12.1984002"
+      },
+      {
+        "-id": "251153029",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6648149",
+        "-lon": "12.1983658"
+      },
+      {
+        "-id": "251153030",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6648608",
+        "-lon": "12.1982886"
+      },
+      {
+        "-id": "251153031",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6648930",
+        "-lon": "12.1982886"
+      },
+      {
+        "-id": "251153032",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6649710",
+        "-lon": "12.1982542"
+      },
+      {
+        "-id": "251153033",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6650123",
+        "-lon": "12.1982028"
+      },
+      {
+        "-id": "251153034",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6650720",
+        "-lon": "12.1982285"
+      },
+      {
+        "-id": "251153035",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6651317",
+        "-lon": "12.1982371"
+      },
+      {
+        "-id": "251153036",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6652143",
+        "-lon": "12.1982285"
+      },
+      {
+        "-id": "251153037",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6652694",
+        "-lon": "12.1982457"
+      },
+      {
+        "-id": "251153038",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6653199",
+        "-lon": "12.1982285"
+      },
+      {
+        "-id": "251153039",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6654209",
+        "-lon": "12.1982371"
+      },
+      {
+        "-id": "251153040",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6654760",
+        "-lon": "12.1982800"
+      },
+      {
+        "-id": "251153041",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6655448",
+        "-lon": "12.1983658"
+      },
+      {
+        "-id": "251153042",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "285819",
+        "-timestamp": "2008-03-08T16:19:04Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6655908",
+        "-lon": "12.1984602"
+      },
+      {
+        "-id": "289253812",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:35:18Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6574859",
+        "-lon": "12.2047158"
+      },
+      {
+        "-id": "289254333",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:36:34Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6573022",
+        "-lon": "12.2045784"
+      },
+      {
+        "-id": "289254335",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:36:34Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6578440",
+        "-lon": "12.2050419"
+      },
+      {
+        "-id": "289254336",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:36:34Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6579634",
+        "-lon": "12.2051449"
+      },
+      {
+        "-id": "289254337",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:36:34Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6581149",
+        "-lon": "12.2052479"
+      },
+      {
+        "-id": "289254338",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:36:34Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6582435",
+        "-lon": "12.2052822"
+      },
+      {
+        "-id": "289254339",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:36:34Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6583721",
+        "-lon": "12.2052565"
+      },
+      {
+        "-id": "289254340",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:36:34Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6584915",
+        "-lon": "12.2052050"
+      },
+      {
+        "-id": "289254341",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:36:34Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6586292",
+        "-lon": "12.2051363"
+      },
+      {
+        "-id": "289254342",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:36:34Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6588037",
+        "-lon": "12.2050762"
+      },
+      {
+        "-id": "289254343",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:36:34Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6589690",
+        "-lon": "12.2050162"
+      },
+      {
+        "-id": "289254345",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:36:34Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6593088",
+        "-lon": "12.2049732"
+      },
+      {
+        "-id": "289254347",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:36:34Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6596256",
+        "-lon": "12.2051020"
+      },
+      {
+        "-id": "289254350",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:36:34Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6601031",
+        "-lon": "12.2052908"
+      },
+      {
+        "-id": "289254352",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:36:34Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6605255",
+        "-lon": "12.2053509"
+      },
+      {
+        "-id": "289254353",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:36:34Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6607780",
+        "-lon": "12.2053423"
+      },
+      {
+        "-id": "289254354",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:36:34Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6609433",
+        "-lon": "12.2052908"
+      },
+      {
+        "-id": "289254355",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:36:34Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6611270",
+        "-lon": "12.2051878"
+      },
+      {
+        "-id": "289254358",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:36:35Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6614529",
+        "-lon": "12.2050505"
+      },
+      {
+        "-id": "289254362",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:36:35Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6623758",
+        "-lon": "12.2052393"
+      },
+      {
+        "-id": "289254366",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:36:35Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6626880",
+        "-lon": "12.2052393"
+      },
+      {
+        "-id": "289254370",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:36:35Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6630644",
+        "-lon": "12.2053080"
+      },
+      {
+        "-id": "289254509",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:38:29Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6597633",
+        "-lon": "12.2051792"
+      },
+      {
+        "-id": "289254513",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:38:29Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6613473",
+        "-lon": "12.2050848"
+      },
+      {
+        "-id": "289254516",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:38:29Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6631930",
+        "-lon": "12.2053595"
+      },
+      {
+        "-id": "289254519",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:38:29Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6650569",
+        "-lon": "12.2062693"
+      },
+      {
+        "-id": "289254520",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:38:29Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6652451",
+        "-lon": "12.2064152"
+      },
+      {
+        "-id": "289254522",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:38:29Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6655527",
+        "-lon": "12.2066984"
+      },
+      {
+        "-id": "289254523",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:38:29Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6656950",
+        "-lon": "12.2067414"
+      },
+      {
+        "-id": "289254524",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:38:30Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6658419",
+        "-lon": "12.2067414"
+      },
+      {
+        "-id": "289254528",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:38:30Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6671686",
+        "-lon": "12.2066298"
+      },
+      {
+        "-id": "289254529",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:38:30Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6673752",
+        "-lon": "12.2066384"
+      },
+      {
+        "-id": "289254531",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:38:30Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6676368",
+        "-lon": "12.2067414"
+      },
+      {
+        "-id": "289254534",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:38:30Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6683805",
+        "-lon": "12.2074452"
+      },
+      {
+        "-id": "289254536",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:38:30Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6686605",
+        "-lon": "12.2076769"
+      },
+      {
+        "-id": "289254539",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:38:30Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6696153",
+        "-lon": "12.2077112"
+      },
+      {
+        "-id": "289254540",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:38:30Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6697346",
+        "-lon": "12.2076512"
+      },
+      {
+        "-id": "289254541",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:38:30Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6698081",
+        "-lon": "12.2075911"
+      },
+      {
+        "-id": "289254543",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:38:30Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6699917",
+        "-lon": "12.2072563"
+      },
+      {
+        "-id": "289254545",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:38:30Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6701294",
+        "-lon": "12.2066727"
+      },
+      {
+        "-id": "289254548",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "20446967",
+        "-timestamp": "2014-02-08T13:55:08Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6705481",
+        "-lon": "12.2051433"
+      },
+      {
+        "-id": "289254550",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:38:30Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6707445",
+        "-lon": "12.2042866"
+      },
+      {
+        "-id": "289254553",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:38:31Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6710291",
+        "-lon": "12.2030678"
+      },
+      {
+        "-id": "289254573",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "62082542",
+        "-timestamp": "2018-08-28T19:29:44Z",
+        "-user": "andengbg",
+        "-uid": "915146",
+        "-lat": "57.6753891",
+        "-lon": "12.2017111"
+      },
+      {
+        "-id": "289254574",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "62082542",
+        "-timestamp": "2018-08-28T19:29:44Z",
+        "-user": "andengbg",
+        "-uid": "915146",
+        "-lat": "57.6754873",
+        "-lon": "12.2016287",
+        "tag": [
+          {
+            "-k": "barrier",
+            "-v": "gate"
+          },
+          {
+            "-k": "name",
+            "-v": "Vägbom"
+          }
+        ]
+      },
+      {
+        "-id": "289254659",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:17Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6576650",
+        "-lon": "12.2048702"
+      },
+      {
+        "-id": "289254660",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:17Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6591526",
+        "-lon": "12.2049647"
+      },
+      {
+        "-id": "289254661",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:17Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6594649",
+        "-lon": "12.2050247"
+      },
+      {
+        "-id": "289254662",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:17Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6598965",
+        "-lon": "12.2052479"
+      },
+      {
+        "-id": "289254663",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:17Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6603189",
+        "-lon": "12.2053252"
+      },
+      {
+        "-id": "289254664",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:17Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6612234",
+        "-lon": "12.2051363"
+      },
+      {
+        "-id": "289254665",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:17Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6625135",
+        "-lon": "12.2052565"
+      },
+      {
+        "-id": "289254666",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:17Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6628900",
+        "-lon": "12.2052651"
+      },
+      {
+        "-id": "289254669",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:17Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6660531",
+        "-lon": "12.2067414"
+      },
+      {
+        "-id": "289254671",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:18Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6675267",
+        "-lon": "12.2066641"
+      },
+      {
+        "-id": "289254673",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:18Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6681234",
+        "-lon": "12.2071705"
+      },
+      {
+        "-id": "289254674",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:18Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6685366",
+        "-lon": "12.2075825"
+      },
+      {
+        "-id": "289254675",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:18Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6687936",
+        "-lon": "12.2077370"
+      },
+      {
+        "-id": "289254676",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:18Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6699137",
+        "-lon": "12.2074452"
+      },
+      {
+        "-id": "289254678",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:18Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6706756",
+        "-lon": "12.2046299"
+      },
+      {
+        "-id": "289254679",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "20446967",
+        "-timestamp": "2014-02-08T13:55:08Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6708465",
+        "-lon": "12.2038291"
+      },
+      {
+        "-id": "289254680",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:18Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6709510",
+        "-lon": "12.2033768"
+      },
+      {
+        "-id": "289254681",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:18Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6711438",
+        "-lon": "12.2027760"
+      },
+      {
+        "-id": "289254682",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:18Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6713641",
+        "-lon": "12.2024155"
+      },
+      {
+        "-id": "289254683",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:18Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6714926",
+        "-lon": "12.2022438"
+      },
+      {
+        "-id": "289254684",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:18Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6716808",
+        "-lon": "12.2021237"
+      },
+      {
+        "-id": "289254687",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:18Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6729385",
+        "-lon": "12.2014714"
+      },
+      {
+        "-id": "289254688",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:18Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6732414",
+        "-lon": "12.2013340"
+      },
+      {
+        "-id": "289254689",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:18Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6733837",
+        "-lon": "12.2012997"
+      },
+      {
+        "-id": "289254690",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:18Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6735076",
+        "-lon": "12.2012997"
+      },
+      {
+        "-id": "289254691",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:18Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6736636",
+        "-lon": "12.2013340"
+      },
+      {
+        "-id": "289254692",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:18Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6738564",
+        "-lon": "12.2014284"
+      },
+      {
+        "-id": "289254693",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:18Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6741777",
+        "-lon": "12.2016173"
+      },
+      {
+        "-id": "289254694",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:19Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6744164",
+        "-lon": "12.2017374"
+      },
+      {
+        "-id": "289254695",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:19Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6746642",
+        "-lon": "12.2018490"
+      },
+      {
+        "-id": "289254696",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:19Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6748432",
+        "-lon": "12.2018833"
+      },
+      {
+        "-id": "289254697",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:19Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6749717",
+        "-lon": "12.2018748"
+      },
+      {
+        "-id": "289254698",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:39:19Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6751966",
+        "-lon": "12.2018147"
+      },
+      {
+        "-id": "289258977",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "318131",
+        "-timestamp": "2008-08-18T23:57:48Z",
+        "-user": "johnrobot",
+        "-uid": "4992",
+        "-lat": "57.6729901",
+        "-lon": "12.2014480"
+      },
+      {
+        "-id": "877056938",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "5578728",
+        "-timestamp": "2010-08-24T11:17:39Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6632959",
+        "-lon": "12.2050348"
+      },
+      {
+        "-id": "877056939",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "5578728",
+        "-timestamp": "2010-08-24T11:17:39Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6633418",
+        "-lon": "12.2043481"
+      },
+      {
+        "-id": "877056940",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "5578728",
+        "-timestamp": "2010-08-24T11:17:39Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6634107",
+        "-lon": "12.2037902"
+      },
+      {
+        "-id": "877056941",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "5578728",
+        "-timestamp": "2010-08-24T11:17:39Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6635254",
+        "-lon": "12.2030177"
+      },
+      {
+        "-id": "877056942",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "85326824",
+        "-timestamp": "2020-05-17T08:36:57Z",
+        "-user": "andengbg",
+        "-uid": "915146",
+        "-lat": "57.6636552",
+        "-lon": "12.2024437"
+      },
+      {
+        "-id": "877056981",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "85326824",
+        "-timestamp": "2020-05-17T08:36:57Z",
+        "-user": "andengbg",
+        "-uid": "915146",
+        "-lat": "57.6642657",
+        "-lon": "12.1993056"
+      },
+      {
+        "-id": "877056982",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "85326824",
+        "-timestamp": "2020-05-17T08:36:57Z",
+        "-user": "andengbg",
+        "-uid": "915146",
+        "-lat": "57.6640190",
+        "-lon": "12.1994129"
+      },
+      {
+        "-id": "877056983",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "85326824",
+        "-timestamp": "2020-05-17T08:36:57Z",
+        "-user": "andengbg",
+        "-uid": "915146",
+        "-lat": "57.6634967",
+        "-lon": "12.2000029"
+      },
+      {
+        "-id": "877056984",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "85326824",
+        "-timestamp": "2020-05-17T08:36:57Z",
+        "-user": "andengbg",
+        "-uid": "915146",
+        "-lat": "57.6631582",
+        "-lon": "12.2003892"
+      },
+      {
+        "-id": "877056985",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "85326824",
+        "-timestamp": "2020-05-17T08:36:57Z",
+        "-user": "andengbg",
+        "-uid": "915146",
+        "-lat": "57.6668824",
+        "-lon": "12.2038332"
+      },
+      {
+        "-id": "877056986",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "85326824",
+        "-timestamp": "2020-05-17T08:36:57Z",
+        "-user": "andengbg",
+        "-uid": "915146",
+        "-lat": "57.6664521",
+        "-lon": "12.2042194"
+      },
+      {
+        "-id": "877056987",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "85326824",
+        "-timestamp": "2020-05-17T08:36:57Z",
+        "-user": "andengbg",
+        "-uid": "915146",
+        "-lat": "57.6661250",
+        "-lon": "12.2047451"
+      },
+      {
+        "-id": "877056988",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "85326824",
+        "-timestamp": "2020-05-17T08:36:57Z",
+        "-user": "andengbg",
+        "-uid": "915146",
+        "-lat": "57.6656430",
+        "-lon": "12.2053780"
+      },
+      {
+        "-id": "877056989",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "5578728",
+        "-timestamp": "2010-08-24T11:17:45Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6645355",
+        "-lon": "12.2057214"
+      },
+      {
+        "-id": "877056990",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "5578728",
+        "-timestamp": "2010-08-24T11:17:45Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6645125",
+        "-lon": "12.2052493"
+      },
+      {
+        "-id": "877056991",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "5578728",
+        "-timestamp": "2010-08-24T11:17:45Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6645355",
+        "-lon": "12.2046485"
+      },
+      {
+        "-id": "877056992",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "85326824",
+        "-timestamp": "2020-05-17T08:36:57Z",
+        "-user": "andengbg",
+        "-uid": "915146",
+        "-lat": "57.6645756",
+        "-lon": "12.2040262"
+      },
+      {
+        "-id": "877056993",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "5578728",
+        "-timestamp": "2010-08-24T11:17:45Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6645814",
+        "-lon": "12.2037044"
+      },
+      {
+        "-id": "877056994",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "85326824",
+        "-timestamp": "2020-05-17T08:36:57Z",
+        "-user": "andengbg",
+        "-uid": "915146",
+        "-lat": "57.6642256",
+        "-lon": "12.2030070"
+      },
+      {
+        "-id": "877056995",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "5578728",
+        "-timestamp": "2010-08-24T11:17:45Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6638927",
+        "-lon": "12.2027603"
+      },
+      {
+        "-id": "877056996",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "5578728",
+        "-timestamp": "2010-08-24T11:17:45Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6635943",
+        "-lon": "12.2025886"
+      },
+      {
+        "-id": "877056997",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "85326824",
+        "-timestamp": "2020-05-17T08:36:57Z",
+        "-user": "andengbg",
+        "-uid": "915146",
+        "-lat": "57.6633877",
+        "-lon": "12.2021165",
+        "tag": {
+          "-k": "ford",
+          "-v": "yes"
+        }
+      },
+      {
+        "-id": "877056998",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "5578728",
+        "-timestamp": "2010-08-24T11:17:45Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6632729",
+        "-lon": "12.2015157"
+      },
+      {
+        "-id": "877056999",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "5578728",
+        "-timestamp": "2010-08-24T11:17:45Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6630663",
+        "-lon": "12.2010866"
+      },
+      {
+        "-id": "877057010",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "15580913",
+        "-timestamp": "2013-04-02T12:24:00Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6699665",
+        "-lon": "12.2061297"
+      },
+      {
+        "-id": "877057011",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "5578728",
+        "-timestamp": "2010-08-24T11:17:48Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6697457",
+        "-lon": "12.2058072"
+      },
+      {
+        "-id": "877057013",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "15580913",
+        "-timestamp": "2013-04-02T12:24:00Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6695261",
+        "-lon": "12.2051598"
+      },
+      {
+        "-id": "877057014",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "15580913",
+        "-timestamp": "2013-04-02T12:24:00Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6692693",
+        "-lon": "12.2046985"
+      },
+      {
+        "-id": "877057015",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "15580913",
+        "-timestamp": "2013-04-02T12:24:00Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6689205",
+        "-lon": "12.2042098"
+      },
+      {
+        "-id": "877057016",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "5578728",
+        "-timestamp": "2010-08-24T11:17:49Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6686440",
+        "-lon": "12.2037473"
+      },
+      {
+        "-id": "877057017",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "15580913",
+        "-timestamp": "2013-04-02T12:24:00Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6681702",
+        "-lon": "12.2026520"
+      },
+      {
+        "-id": "877057018",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "15580913",
+        "-timestamp": "2013-04-02T12:24:00Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6678598",
+        "-lon": "12.2019755"
+      },
+      {
+        "-id": "877057019",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "5578728",
+        "-timestamp": "2010-08-24T11:17:49Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6673358",
+        "-lon": "12.2016445"
+      },
+      {
+        "-id": "877057020",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "15580913",
+        "-timestamp": "2013-04-02T12:24:00Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6666370",
+        "-lon": "12.2012030"
+      },
+      {
+        "-id": "877057021",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "15580913",
+        "-timestamp": "2013-04-02T12:24:00Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6662500",
+        "-lon": "12.2011296"
+      },
+      {
+        "-id": "877057022",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "15580913",
+        "-timestamp": "2013-04-02T12:24:00Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6654638",
+        "-lon": "12.2011725"
+      },
+      {
+        "-id": "877057023",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "15580913",
+        "-timestamp": "2013-04-02T12:24:00Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6649554",
+        "-lon": "12.2012932"
+      },
+      {
+        "-id": "877057024",
+        "-visible": "true",
+        "-version": "3",
+        "-changeset": "85326824",
+        "-timestamp": "2020-05-17T08:36:57Z",
+        "-user": "andengbg",
+        "-uid": "915146",
+        "-lat": "57.6643643",
+        "-lon": "12.2014074"
+      },
+      {
+        "-id": "877057025",
+        "-visible": "true",
+        "-version": "3",
+        "-changeset": "85326824",
+        "-timestamp": "2020-05-17T08:36:57Z",
+        "-user": "andengbg",
+        "-uid": "915146",
+        "-lat": "57.6639669",
+        "-lon": "12.2016971"
+      },
+      {
+        "-id": "877057026",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "15580913",
+        "-timestamp": "2013-04-02T12:24:00Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6635755",
+        "-lon": "12.2018720"
+      },
+      {
+        "-id": "877057027",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "15580913",
+        "-timestamp": "2013-04-02T12:24:00Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6630200",
+        "-lon": "12.2021166"
+      },
+      {
+        "-id": "877057028",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "15580913",
+        "-timestamp": "2013-04-02T12:24:00Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6625761",
+        "-lon": "12.2027603"
+      },
+      {
+        "-id": "877057029",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "15580913",
+        "-timestamp": "2013-04-02T12:24:00Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6623141",
+        "-lon": "12.2025855"
+      },
+      {
+        "-id": "877057030",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "15580913",
+        "-timestamp": "2013-04-02T12:24:00Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6617715",
+        "-lon": "12.2022244"
+      },
+      {
+        "-id": "877057031",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "5578728",
+        "-timestamp": "2010-08-24T11:17:50Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6614594",
+        "-lon": "12.2024169"
+      },
+      {
+        "-id": "877057032",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "15580913",
+        "-timestamp": "2013-04-02T12:24:01Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6610036",
+        "-lon": "12.2024353"
+      },
+      {
+        "-id": "2244810736",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "15580913",
+        "-timestamp": "2013-04-02T12:24:00Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6652573",
+        "-lon": "12.2013724"
+      },
+      {
+        "-id": "2244810738",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "15580913",
+        "-timestamp": "2013-04-02T12:24:00Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6658236",
+        "-lon": "12.2011355"
+      },
+      {
+        "-id": "2244810740",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "15580913",
+        "-timestamp": "2013-04-02T12:24:00Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6655843",
+        "-lon": "12.2010351"
+      },
+      {
+        "-id": "2244810742",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "15580913",
+        "-timestamp": "2013-04-02T12:24:00Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6690912",
+        "-lon": "12.2045134"
+      },
+      {
+        "-id": "2244810745",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "15580913",
+        "-timestamp": "2013-04-02T12:24:00Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6680767",
+        "-lon": "12.2023151"
+      },
+      {
+        "-id": "2244810752",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "15580913",
+        "-timestamp": "2013-04-02T12:24:00Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6628453",
+        "-lon": "12.2022598"
+      },
+      {
+        "-id": "2244810761",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "15580913",
+        "-timestamp": "2013-04-02T12:24:00Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6675294",
+        "-lon": "12.2018922"
+      },
+      {
+        "-id": "2244810763",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "15580913",
+        "-timestamp": "2013-04-02T12:24:00Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6612352",
+        "-lon": "12.2021794"
+      },
+      {
+        "-id": "2244810764",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "29002445",
+        "-timestamp": "2015-02-21T16:31:16Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6670755",
+        "-lon": "12.2013074"
+      },
+      {
+        "-id": "2536195867",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:19Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6682906",
+        "-lon": "12.2951962",
+        "tag": [
+          {
+            "-k": "name",
+            "-v": "Landvetter flygplats"
+          },
+          {
+            "-k": "railway",
+            "-v": "proposed_station"
+          }
+        ]
+      },
+      {
+        "-id": "2536195868",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:19Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6606255",
+        "-lon": "12.1356992"
+      },
+      {
+        "-id": "2536195869",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:19Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6611031",
+        "-lon": "12.4436034"
+      },
+      {
+        "-id": "2536195870",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:19Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6612625",
+        "-lon": "12.4346994"
+      },
+      {
+        "-id": "2536195871",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:19Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6613138",
+        "-lon": "12.5293676"
+      },
+      {
+        "-id": "2536195872",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6613614",
+        "-lon": "12.1401988"
+      },
+      {
+        "-id": "2536195873",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6615246",
+        "-lon": "12.5222206"
+      },
+      {
+        "-id": "2536195874",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6615547",
+        "-lon": "12.4585165"
+      },
+      {
+        "-id": "2536195875",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6616882",
+        "-lon": "12.4276958"
+      },
+      {
+        "-id": "2536195876",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6622470",
+        "-lon": "12.5096711"
+      },
+      {
+        "-id": "2536195877",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6623373",
+        "-lon": "12.4723040"
+      },
+      {
+        "-id": "2536195878",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6624669",
+        "-lon": "12.4206800"
+      },
+      {
+        "-id": "2536195879",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6628992",
+        "-lon": "12.1531247"
+      },
+      {
+        "-id": "2536195880",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6629425",
+        "-lon": "12.1958039"
+      },
+      {
+        "-id": "2536195881",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6630598",
+        "-lon": "12.4827151"
+      },
+      {
+        "-id": "2536195882",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6632027",
+        "-lon": "12.2073957"
+      },
+      {
+        "-id": "2536195883",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6632460",
+        "-lon": "12.1861575"
+      },
+      {
+        "-id": "2536195884",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6632705",
+        "-lon": "12.4909876"
+      },
+      {
+        "-id": "2536195885",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6634132",
+        "-lon": "12.4130117"
+      },
+      {
+        "-id": "2536195886",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6634628",
+        "-lon": "12.1619605"
+      },
+      {
+        "-id": "2536195887",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6635584",
+        "-lon": "12.2152639"
+      },
+      {
+        "-id": "2536195888",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6638097",
+        "-lon": "12.1700667"
+      },
+      {
+        "-id": "2536195889",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6638531",
+        "-lon": "12.1776865"
+      },
+      {
+        "-id": "2536195890",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6649346",
+        "-lon": "12.4028099"
+      },
+      {
+        "-id": "2536195891",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6675006",
+        "-lon": "12.3877363"
+      },
+      {
+        "-id": "2536195892",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6690328",
+        "-lon": "12.3077322"
+      },
+      {
+        "-id": "2536195893",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6696135",
+        "-lon": "12.3149156"
+      },
+      {
+        "-id": "2536195894",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6704154",
+        "-lon": "12.3217027"
+      },
+      {
+        "-id": "2536195896",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6714706",
+        "-lon": "12.3284108"
+      },
+      {
+        "-id": "2536195898",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6717683",
+        "-lon": "12.3630707"
+      },
+      {
+        "-id": "2536195900",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6726039",
+        "-lon": "12.3576576"
+      },
+      {
+        "-id": "2536195902",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6727885",
+        "-lon": "12.3383224"
+      },
+      {
+        "-id": "2536195903",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6731683",
+        "-lon": "12.3517782"
+      },
+      {
+        "-id": "2536195904",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "18949749",
+        "-timestamp": "2013-11-17T10:58:20Z",
+        "-user": "leojth",
+        "-uid": "3700",
+        "-lat": "57.6732316",
+        "-lon": "12.3447938"
+      },
+      {
+        "-id": "2661291685",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "20446967",
+        "-timestamp": "2014-02-08T13:55:08Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6708235",
+        "-lon": "12.2039229"
+      },
+      {
+        "-id": "3363573857",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "29002445",
+        "-timestamp": "2015-02-21T16:31:10Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6670640",
+        "-lon": "12.2010070"
+      },
+      {
+        "-id": "3363573858",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "29002445",
+        "-timestamp": "2015-02-21T16:31:10Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6670123",
+        "-lon": "12.2004598"
+      },
+      {
+        "-id": "3363573859",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "29002445",
+        "-timestamp": "2015-02-21T16:31:10Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6669205",
+        "-lon": "12.1997088"
+      },
+      {
+        "-id": "3363573860",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "29002445",
+        "-timestamp": "2015-02-21T16:31:10Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6668115",
+        "-lon": "12.1992260"
+      },
+      {
+        "-id": "3363573861",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "29002445",
+        "-timestamp": "2015-02-21T16:31:10Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6666623",
+        "-lon": "12.1987217"
+      },
+      {
+        "-id": "3363573862",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "29002445",
+        "-timestamp": "2015-02-21T16:31:10Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6664615",
+        "-lon": "12.1980351"
+      },
+      {
+        "-id": "3363573863",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "29002445",
+        "-timestamp": "2015-02-21T16:31:10Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6661745",
+        "-lon": "12.2008353"
+      },
+      {
+        "-id": "3363573864",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "29002445",
+        "-timestamp": "2015-02-21T16:31:10Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6660598",
+        "-lon": "12.2004383"
+      },
+      {
+        "-id": "3363573865",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "29002445",
+        "-timestamp": "2015-02-21T16:31:10Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6659852",
+        "-lon": "12.2000628"
+      },
+      {
+        "-id": "3363573866",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "29002445",
+        "-timestamp": "2015-02-21T16:31:10Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6658302",
+        "-lon": "12.1997302"
+      },
+      {
+        "-id": "3363573867",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "29002445",
+        "-timestamp": "2015-02-21T16:31:10Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6734620",
+        "-lon": "12.2012997"
+      },
+      {
+        "-id": "3585750469",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "31868259",
+        "-timestamp": "2015-06-10T12:09:01Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "-lat": "57.6695109",
+        "-lon": "12.3761181"
+      },
+      {
+        "-id": "5278600780",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "54552440",
+        "-timestamp": "2017-12-11T22:54:34Z",
+        "-user": "f95heka",
+        "-uid": "118468",
+        "-lat": "57.6635923",
+        "-lon": "12.1647466"
+      },
+      {
+        "-id": "5278609431",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "54552490",
+        "-timestamp": "2017-12-11T22:56:49Z",
+        "-user": "f95heka",
+        "-uid": "118468",
+        "-lat": "57.6634148",
+        "-lon": "12.1615422"
+      },
+      {
+        "-id": "7750389463",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "88521881",
+        "-timestamp": "2020-07-26T14:00:28Z",
+        "-user": "Z00l00k",
+        "-uid": "1440132",
+        "-lat": "57.6571501",
+        "-lon": "12.2045073"
+      }
+    ],
+    "way": [
+      {
+        "-id": "23218585",
+        "-visible": "true",
+        "-version": "4",
+        "-changeset": "88268235",
+        "-timestamp": "2020-07-20T23:11:26Z",
+        "-user": "archie",
+        "-uid": "156646",
+        "nd": [
+          { "-ref": "251152984" },
+          { "-ref": "251152985" },
+          { "-ref": "251152986" },
+          { "-ref": "251152987" },
+          { "-ref": "251152988" },
+          { "-ref": "251152989" },
+          { "-ref": "251152990" },
+          { "-ref": "251152991" },
+          { "-ref": "251152992" },
+          { "-ref": "251152993" },
+          { "-ref": "251152994" },
+          { "-ref": "251152995" },
+          { "-ref": "251152996" },
+          { "-ref": "251152997" },
+          { "-ref": "251152998" },
+          { "-ref": "251152999" },
+          { "-ref": "251153000" },
+          { "-ref": "251153001" },
+          { "-ref": "251153002" },
+          { "-ref": "251153003" },
+          { "-ref": "251153004" },
+          { "-ref": "251153005" },
+          { "-ref": "251153006" },
+          { "-ref": "251153007" },
+          { "-ref": "251153008" },
+          { "-ref": "251153009" },
+          { "-ref": "251153010" },
+          { "-ref": "251153011" },
+          { "-ref": "251153012" },
+          { "-ref": "251153013" },
+          { "-ref": "251153014" },
+          { "-ref": "251153015" },
+          { "-ref": "251153016" },
+          { "-ref": "251153017" },
+          { "-ref": "251153018" },
+          { "-ref": "251153019" },
+          { "-ref": "251153020" },
+          { "-ref": "251153021" },
+          { "-ref": "251153022" },
+          { "-ref": "251153023" },
+          { "-ref": "251153024" },
+          { "-ref": "251153025" },
+          { "-ref": "251153026" },
+          { "-ref": "251153027" },
+          { "-ref": "251153028" },
+          { "-ref": "251153029" },
+          { "-ref": "251153030" },
+          { "-ref": "251153031" },
+          { "-ref": "251153032" },
+          { "-ref": "251153033" },
+          { "-ref": "251153034" },
+          { "-ref": "251153035" },
+          { "-ref": "251153036" },
+          { "-ref": "251153037" },
+          { "-ref": "251153038" },
+          { "-ref": "251153039" },
+          { "-ref": "251153040" },
+          { "-ref": "251153041" },
+          { "-ref": "251153042" },
+          { "-ref": "251152984" }
+        ]
+      },
+      {
+        "-id": "74141129",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "5578728",
+        "-timestamp": "2010-08-24T11:17:39Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "nd": [
+          { "-ref": "877056938" },
+          { "-ref": "877056939" },
+          { "-ref": "877056940" },
+          { "-ref": "877056941" },
+          { "-ref": "877056942" }
+        ],
+        "tag": {
+          "-k": "waterway",
+          "-v": "stream"
+        }
+      },
+      {
+        "-id": "74141136",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "85326824",
+        "-timestamp": "2020-05-17T08:36:57Z",
+        "-user": "andengbg",
+        "-uid": "915146",
+        "nd": [
+          { "-ref": "251153020" },
+          { "-ref": "877056981" },
+          { "-ref": "877056982" },
+          { "-ref": "877056983" },
+          { "-ref": "877056984" }
+        ],
+        "tag": {
+          "-k": "waterway",
+          "-v": "stream"
+        }
+      },
+      {
+        "-id": "74141137",
+        "-visible": "true",
+        "-version": "2",
+        "-changeset": "85326824",
+        "-timestamp": "2020-05-17T08:36:57Z",
+        "-user": "andengbg",
+        "-uid": "915146",
+        "nd": [
+          { "-ref": "877056988" },
+          { "-ref": "877056987" },
+          { "-ref": "877056986" },
+          { "-ref": "877056985" },
+          { "-ref": "251152876" }
+        ],
+        "tag": {
+          "-k": "waterway",
+          "-v": "stream"
+        }
+      },
+      {
+        "-id": "74141138",
+        "-visible": "true",
+        "-version": "3",
+        "-changeset": "81374288",
+        "-timestamp": "2020-02-23T19:24:09Z",
+        "-user": "archie",
+        "-uid": "156646",
+        "nd": [
+          { "-ref": "877056989" },
+          { "-ref": "877056990" },
+          { "-ref": "877056991" },
+          { "-ref": "877056992" },
+          { "-ref": "877056993" },
+          { "-ref": "877056994" },
+          { "-ref": "877056995" },
+          { "-ref": "877056942" },
+          { "-ref": "877056996" },
+          { "-ref": "877056997" },
+          { "-ref": "877056998" },
+          { "-ref": "877056999" }
+        ],
+        "tag": {
+          "-k": "waterway",
+          "-v": "stream"
+        }
+      },
+      {
+        "-id": "74141144",
+        "-visible": "true",
+        "-version": "7",
+        "-changeset": "85326824",
+        "-timestamp": "2020-05-17T08:36:57Z",
+        "-user": "andengbg",
+        "-uid": "915146",
+        "nd": [
+          { "-ref": "289254545" },
+          { "-ref": "877057010" },
+          { "-ref": "877057011" },
+          { "-ref": "877057013" },
+          { "-ref": "877057014" },
+          { "-ref": "2244810742" },
+          { "-ref": "877057015" },
+          { "-ref": "877057016" },
+          { "-ref": "877057017" },
+          { "-ref": "2244810745" },
+          { "-ref": "877057018" },
+          { "-ref": "2244810761" },
+          { "-ref": "877057019" },
+          { "-ref": "2244810764" },
+          { "-ref": "877057020" },
+          { "-ref": "877057021" },
+          { "-ref": "2244810738" },
+          { "-ref": "2244810740" },
+          { "-ref": "877057022" },
+          { "-ref": "2244810736" },
+          { "-ref": "877057023" },
+          { "-ref": "877057024" },
+          { "-ref": "877057025" },
+          { "-ref": "877057026" },
+          { "-ref": "877056997" },
+          { "-ref": "877057027" },
+          { "-ref": "2244810752" },
+          { "-ref": "877057028" },
+          { "-ref": "877057029" },
+          { "-ref": "877057030" },
+          { "-ref": "877057031" },
+          { "-ref": "2244810763" },
+          { "-ref": "877057032" }
+        ],
+        "tag": [
+          {
+            "-k": "highway",
+            "-v": "path"
+          },
+          {
+            "-k": "trail_visibility",
+            "-v": "good"
+          }
+        ]
+      },
+      {
+        "-id": "128595474",
+        "-visible": "true",
+        "-version": "15",
+        "-changeset": "88521881",
+        "-timestamp": "2020-07-26T14:00:28Z",
+        "-user": "Z00l00k",
+        "-uid": "1440132",
+        "nd": [
+          { "-ref": "289254574" },
+          { "-ref": "289254573" },
+          { "-ref": "289254698" },
+          { "-ref": "289254697" },
+          { "-ref": "289254696" },
+          { "-ref": "289254695" },
+          { "-ref": "289254694" },
+          { "-ref": "289254693" },
+          { "-ref": "289254692" },
+          { "-ref": "289254691" },
+          { "-ref": "289254690" },
+          { "-ref": "3363573867" },
+          { "-ref": "289254689" },
+          { "-ref": "289254688" },
+          { "-ref": "289258977" },
+          { "-ref": "289254687" },
+          { "-ref": "289254684" },
+          { "-ref": "289254683" },
+          { "-ref": "289254682" },
+          { "-ref": "289254681" },
+          { "-ref": "289254553" },
+          { "-ref": "289254680" },
+          { "-ref": "289254679" },
+          { "-ref": "2661291685" },
+          { "-ref": "289254550" },
+          { "-ref": "289254678" },
+          { "-ref": "289254548" },
+          { "-ref": "289254545" },
+          { "-ref": "289254543" },
+          { "-ref": "289254676" },
+          { "-ref": "289254541" },
+          { "-ref": "289254540" },
+          { "-ref": "289254539" },
+          { "-ref": "289254675" },
+          { "-ref": "289254536" },
+          { "-ref": "289254674" },
+          { "-ref": "289254534" },
+          { "-ref": "289254673" },
+          { "-ref": "289254531" },
+          { "-ref": "289254671" },
+          { "-ref": "289254529" },
+          { "-ref": "289254528" },
+          { "-ref": "289254669" },
+          { "-ref": "289254524" },
+          { "-ref": "289254523" },
+          { "-ref": "289254522" },
+          { "-ref": "289254520" },
+          { "-ref": "289254519" },
+          { "-ref": "289254516" },
+          { "-ref": "289254370" },
+          { "-ref": "289254666" },
+          { "-ref": "289254366" },
+          { "-ref": "289254665" },
+          { "-ref": "289254362" },
+          { "-ref": "289254358" },
+          { "-ref": "289254513" },
+          { "-ref": "289254664" },
+          { "-ref": "289254355" },
+          { "-ref": "289254354" },
+          { "-ref": "289254353" },
+          { "-ref": "289254352" },
+          { "-ref": "289254663" },
+          { "-ref": "289254350" },
+          { "-ref": "289254662" },
+          { "-ref": "289254509" },
+          { "-ref": "289254347" },
+          { "-ref": "289254661" },
+          { "-ref": "289254345" },
+          { "-ref": "289254660" },
+          { "-ref": "289254343" },
+          { "-ref": "289254342" },
+          { "-ref": "289254341" },
+          { "-ref": "289254340" },
+          { "-ref": "289254339" },
+          { "-ref": "289254338" },
+          { "-ref": "289254337" },
+          { "-ref": "289254336" },
+          { "-ref": "289254335" },
+          { "-ref": "289254659" },
+          { "-ref": "289253812" },
+          { "-ref": "289254333" },
+          { "-ref": "7750389463" }
+        ],
+        "tag": [
+          {
+            "-k": "access",
+            "-v": "no"
+          },
+          {
+            "-k": "bicycle",
+            "-v": "permissive"
+          },
+          {
+            "-k": "foot",
+            "-v": "yes"
+          },
+          {
+            "-k": "highway",
+            "-v": "track"
+          },
+          {
+            "-k": "horse",
+            "-v": "permissive"
+          },
+          {
+            "-k": "motor_vehicle",
+            "-v": "private"
+          },
+          {
+            "-k": "smoothness",
+            "-v": "bad"
+          },
+          {
+            "-k": "surface",
+            "-v": "gravel"
+          },
+          {
+            "-k": "tracktype",
+            "-v": "grade2"
+          }
+        ]
+      },
+      {
+        "-id": "246604081",
+        "-visible": "true",
+        "-version": "4",
+        "-changeset": "54552490",
+        "-timestamp": "2017-12-11T22:56:51Z",
+        "-user": "f95heka",
+        "-uid": "118468",
+        "nd": [
+          { "-ref": "21377243" },
+          { "-ref": "2536195871" },
+          { "-ref": "2536195873" },
+          { "-ref": "2536195876" },
+          { "-ref": "2536195884" },
+          { "-ref": "2536195881" },
+          { "-ref": "2536195877" },
+          { "-ref": "2536195874" },
+          { "-ref": "2536195869" },
+          { "-ref": "2536195870" },
+          { "-ref": "2536195875" },
+          { "-ref": "2536195878" },
+          { "-ref": "2536195885" },
+          { "-ref": "2536195890" },
+          { "-ref": "2536195891" },
+          { "-ref": "3585750469" },
+          { "-ref": "2536195898" },
+          { "-ref": "2536195900" },
+          { "-ref": "2536195903" },
+          { "-ref": "2536195904" },
+          { "-ref": "2536195902" },
+          { "-ref": "2536195896" },
+          { "-ref": "2536195894" },
+          { "-ref": "2536195893" },
+          { "-ref": "2536195892" },
+          { "-ref": "2536195867" },
+          { "-ref": "2536195887" },
+          { "-ref": "2536195882" },
+          { "-ref": "2536195880" },
+          { "-ref": "2536195883" },
+          { "-ref": "2536195889" },
+          { "-ref": "2536195888" },
+          { "-ref": "5278600780" },
+          { "-ref": "2536195886" },
+          { "-ref": "5278609431" },
+          { "-ref": "2536195879" },
+          { "-ref": "2536195872" },
+          { "-ref": "2536195868" },
+          { "-ref": "21372316" }
+        ],
+        "tag": [
+          {
+            "-k": "railway",
+            "-v": "proposed"
+          },
+          {
+            "-k": "source",
+            "-v": "http://www.trafikverket.se/PageFiles/127867/jarnvagsutredning_beslutshandling_molnlycke_bollebygd.pdf"
+          }
+        ]
+      },
+      {
+        "-id": "329485069",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "29002445",
+        "-timestamp": "2015-02-21T16:31:15Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "nd": [
+          { "-ref": "2244810764" },
+          { "-ref": "3363573857" },
+          { "-ref": "3363573858" },
+          { "-ref": "3363573859" },
+          { "-ref": "3363573860" },
+          { "-ref": "3363573861" },
+          { "-ref": "3363573862" }
+        ],
+        "tag": {
+          "-k": "highway",
+          "-v": "path"
+        }
+      },
+      {
+        "-id": "329485070",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "29002445",
+        "-timestamp": "2015-02-21T16:31:15Z",
+        "-user": "uebk",
+        "-uid": "327279",
+        "nd": [
+          { "-ref": "877057021" },
+          { "-ref": "3363573863" },
+          { "-ref": "3363573864" },
+          { "-ref": "3363573865" },
+          { "-ref": "3363573866" }
+        ],
+        "tag": {
+          "-k": "highway",
+          "-v": "path"
+        }
+      }
+    ],
+    "relation": [
+      {
+        "-id": "2952710",
+        "-visible": "true",
+        "-version": "32",
+        "-changeset": "88257670",
+        "-timestamp": "2020-07-20T16:43:50Z",
+        "-user": "archie",
+        "-uid": "156646",
+        "member": [
+          {
+            "-type": "way",
+            "-ref": "475443155",
+            "-role": "outer"
+          },
+          {
+            "-type": "way",
+            "-ref": "777074246",
+            "-role": "outer"
+          },
+          {
+            "-type": "way",
+            "-ref": "777074251",
+            "-role": "outer"
+          },
+          {
+            "-type": "way",
+            "-ref": "777074259",
+            "-role": "outer"
+          },
+          {
+            "-type": "way",
+            "-ref": "777074256",
+            "-role": "outer"
+          },
+          {
+            "-type": "way",
+            "-ref": "777074255",
+            "-role": "outer"
+          },
+          {
+            "-type": "way",
+            "-ref": "777074260",
+            "-role": "outer"
+          },
+          {
+            "-type": "way",
+            "-ref": "777074258",
+            "-role": "outer"
+          },
+          {
+            "-type": "way",
+            "-ref": "777091958",
+            "-role": "outer"
+          },
+          {
+            "-type": "way",
+            "-ref": "777091960",
+            "-role": "outer"
+          },
+          {
+            "-type": "way",
+            "-ref": "475328122",
+            "-role": "outer"
+          },
+          {
+            "-type": "way",
+            "-ref": "475430010",
+            "-role": "outer"
+          },
+          {
+            "-type": "way",
+            "-ref": "26386284",
+            "-role": "outer"
+          },
+          {
+            "-type": "way",
+            "-ref": "223065366",
+            "-role": "outer"
+          },
+          {
+            "-type": "way",
+            "-ref": "26402616",
+            "-role": "outer"
+          },
+          {
+            "-type": "way",
+            "-ref": "26384856",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "23775739",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "26403151",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "321104072",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "321104075",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "329131354",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "329131355",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "329485072",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "321104071",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "329485075",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "329485076",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "329485074",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "329485081",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "23218573",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "23218579",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "23218585",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "26403148",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "23218750",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "23218852",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "23218803",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "23218667",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "23218651",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "329485078",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "329485080",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "26402673",
+            "-role": "outer"
+          },
+          {
+            "-type": "way",
+            "-ref": "329485073",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "23218872",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "23218889",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "23218860",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "802702710",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "223027957",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "475443156",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "321104077",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "329131352",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "329131353",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "329131358",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "321104070",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "321104078",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "223726485",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "223726484",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "329485079",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "802704338",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "802908629",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "802908635",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "803834287",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "223126595",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "802702711",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "803834288",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "804950329",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "804950330",
+            "-role": "inner"
+          },
+          {
+            "-type": "way",
+            "-ref": "805500809",
+            "-role": "inner"
+          }
+        ],
+        "tag": [
+          {
+            "-k": "landuse",
+            "-v": "forest"
+          },
+          {
+            "-k": "type",
+            "-v": "multipolygon"
+          }
+        ]
+      },
+      {
+        "-id": "11328456",
+        "-visible": "true",
+        "-version": "1",
+        "-changeset": "88268235",
+        "-timestamp": "2020-07-20T23:11:26Z",
+        "-user": "archie",
+        "-uid": "156646",
+        "member": {
+          "-type": "way",
+          "-ref": "23218585",
+          "-role": "outer"
+        },
+        "tag": [
+          {
+            "-k": "name",
+            "-v": "Abborrtjärn"
+          },
+          {
+            "-k": "natural",
+            "-v": "water"
+          },
+          {
+            "-k": "source:lake",
+            "-v": "Review by So9q using LM Topographic Map"
+          },
+          {
+            "-k": "type",
+            "-v": "multipolygon"
+          },
+          {
+            "-k": "water",
+            "-v": "lake"
+          }
+        ]
+      }
+    ]
+  }
+}
